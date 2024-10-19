@@ -2,3 +2,4 @@ Flask
 TTS
 torch
 gunicorn
+pydub
